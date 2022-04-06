@@ -23,10 +23,10 @@ Eunse 😎
 
 About Me💞
 
-📬 gjdmstp0311@g.skku.edu
-🏫 Sungkyunkwan University 21
-🏛️ Department of Philosophy
-🦁 Likelion 10th
+- 📬 gjdmstp0311@g.skku.edu
+- 🏫 Sungkyunkwan University 21
+- 🏛️ Department of Philosophy
+- 🦁 Likelion 10th
 
 Contact💌
 
