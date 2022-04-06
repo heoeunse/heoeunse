@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 - 🏛️ Department of Philosophy
 - 🦁 Likelion 10th
 
-**Contact💌**
+<!--**Contact💌**
 
-<!--<a href="https://www.instagram.com/as__una/" target="_blank"><img src="https://img.shields.io/badge/as__una-#E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/as__una/" target="_blank"><img src="https://img.shields.io/badge/as__una-#E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/heoeunse82@gmail.com-##EA4335?style=flat-square&logo=Gmail&logoColor=white/></a>
 -->
