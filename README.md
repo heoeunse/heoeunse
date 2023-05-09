@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 - 📬 gjdmstp0311@g.skku.edu
 - 🏫 Sungkyunkwan Univ. 21
-- 🏛️ Department of Philosophy
 - 🦁 Likelion 10th
 
 <!--**Contact💌**
