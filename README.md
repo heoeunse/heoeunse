@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 ## Hi I'm Eunse 😎
 
-**About Me💞**
+**About Me**
 
-- 📬 gjdmstp0311@g.skku.edu
+- 📬 heoeunse82@gmail.com
 - 🏫 Sungkyunkwan Univ. 21
-- 🦁 Likelion 10th
+
 
 <!--**Contact💌**
 
